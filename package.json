@@ -1,0 +1,12 @@
+{
+  "name": "projeto-entrega-intermediaria",
+  "version": "1.0.0",
+  "description": "Projeto com integração ViaCEP",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
