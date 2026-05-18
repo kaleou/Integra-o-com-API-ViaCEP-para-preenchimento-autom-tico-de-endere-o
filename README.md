@@ -1,6 +1,6 @@
 # Projeto Entrega Intermediária
 
-Link da aplicação publicada: COLE_AQUI_O_LINK_DO_VERCEL
+Link da aplicação publicada: (https://integra-o-com-api-via-cep-para-pree-navy.vercel.app)
 
 ## Descrição
 Aplicação web que consulta endereços automaticamente utilizando a API pública ViaCEP.
